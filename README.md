@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 You need have an Amazon AWS account with keys for S3. After
 `boto3` has been installed, you must configure it to use
-your AWS credentials. See [](http://boto3.readthedocs.io/en/latest/guide/quickstart.html) for details.
+your AWS credentials. See the [boto3 documentation](http://boto3.readthedocs.io/en/latest/guide/quickstart.html) for details.
 
 ## Use
 
